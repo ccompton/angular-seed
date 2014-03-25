@@ -13,7 +13,7 @@ if [[ -z "$BROWSERS" ]]
 then
   BROWSERS="Chrome"
 fi
-
+.50.
 if [[ -z "$BROWSERS_E2E" ]]
 then
   BROWSERS_E2E="Chrome"

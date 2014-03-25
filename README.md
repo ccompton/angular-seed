@@ -3,7 +3,7 @@
 # Adapt 
 angular-seed-adapt
 
-The adapt code is used to check the browser size and include the correct markup for a given device/browser size.  This allows you to control what markup loads for any given device/browser size.   Adapt also updates a few size root scoped variables on the root scope so they can be accessed in templates and throughout the application.
+The adapt code is used to check the browser size and include the correct markup for a given device/browser size.  This allows you to control what markup loads for any given device/browser size.   Adapt also updates a few variables on the root scope so they are accessible in templates and throughout the application.
 
 
 # Angular Seed
